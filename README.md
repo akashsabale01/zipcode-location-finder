@@ -7,7 +7,7 @@
 
 ## Demo
 
-Please visit the [Zipcode location finder ](https://akashsabale01.github.io/zipcode-location-finder/) :link:
+Please visit the [Zipcode Location Finder ](https://akashsabale01.github.io/zipcode-location-finder/) :link:
   
 ## Lessons Learned
 
@@ -19,7 +19,7 @@ Please visit the [Zipcode location finder ](https://akashsabale01.github.io/zipc
 
 :white_check_mark: Javascript Exception Handling
 
-:white_check_mark: e.preventDefault();  which is used because by default behaviour of form is after submitting it refresh page , so to stop this we use e.preventDefault()
+:white_check_mark: e.preventDefault();  which is used because by default behaviour of form is after submitting it refresh page, so to stop this we use e.preventDefault()
 
   
 ## Built With
