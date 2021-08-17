@@ -24,8 +24,9 @@ Please visit the [Zipcode Location Finder ](https://akashsabale01.github.io/zipc
   
 ## Built With
 * Vanilla JavaScript 
-* [Bulma CSS](https://bulma.io/)
-* [Font Awesome](https://fontawesome.com)
-* [Zippopotam.us](https://www.zippopotam.us/#)
+* Zippopotam.us
+* Bulma CSS
+* Font Awesome
+
 
   
